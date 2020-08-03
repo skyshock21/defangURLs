@@ -3,7 +3,7 @@ Read malicious URLs from a file, sorts ascending, removes duplicates, defangs th
 
 # Read From File, Defang, Output To Sorted List
 
-The script defangURLs.py is a wrapper for defang.py by Johan Nestaas.  It allows you to input a text file containing potentially malicious URLs, and it will output a text file of defanged URLs, duplicates removed, and sorted in ascending order.  It can serve as a library to be imported as well.
+The script defangURLs.py is a wrapper for defang.py by Johan Nestaas (https://bitbucket.org/johannestaas/defang/src/master/README.md).  It allows you to input a text file containing potentially malicious URLs, and it will output a text file of defanged URLs, duplicates removed, and sorted in ascending order.  It can serve as a library to be imported as well.
 
 ## Run Application
 
