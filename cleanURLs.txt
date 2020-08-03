@@ -1,0 +1,7 @@
+hXXp://www[.]yahoo[.]com
+hXXps://www[.]google[.]com
+python[.]org
+this[.]has[.]subdomains[.]and[.]lots[.]of[.]them[.]net/folder
+url[.]com/has/http.php?params=1&otherparams=2
+wordpress[.]com/some/jank/here.html
+www[.]msn[.]com

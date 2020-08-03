@@ -1,0 +1,7 @@
+https://www.google.com
+http://www.yahoo.com
+www.msn.com
+python.org
+wordpress.com/some/jank/here.html
+url.com/has/http.php?params=1&otherparams=2
+this.has.subdomains.and.lots.of.them.net/folder
